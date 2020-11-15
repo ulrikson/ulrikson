@@ -1,16 +1,26 @@
-### Hi there 👋
+## Hi there! 👋
 
-<!--
-**ulrikson/ulrikson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Erik Billebjer Ulrikson, Full Stack Developer at [LeadPilot](https://leadpilot.com).
 
-Here are some ideas to get you started:
+Occasionally writing posts at [dev.to/ulrikson](https://dev.to/ulrikson).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+
+const aboutMe = {
+	code: [JavaScript, PHP, Python, R, SAS, HTML, CSS],
+	tools: [Vue, Laravel, Flask, React],
+	education: [BSc Economics @ Stockholm School of Economic, BSc Statistics @ Stockholm University],
+	passion: [Helping others through code]
+}
+```
+
+## Get in touch
+Questions? Want to discuss something? 😃
+
+Shoot me an [email](mailto:erik.ulrikson@gmail.com)
+
+DM me on [Twitter](https://twitter.com/ulrikson2)
+
+DM me on [LinkedIn](https://www.linkedin.com/in/erik-billebjer-ulrikson/)
+
+Looking forward to hearing from you!
