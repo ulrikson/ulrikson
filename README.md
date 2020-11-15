@@ -9,7 +9,7 @@ Occasionally writing posts at [dev.to/ulrikson](https://dev.to/ulrikson).
 const aboutMe = {
 	code: [JavaScript, PHP, Python, R, SAS, HTML, CSS],
 	tools: [Vue, Laravel, Flask, React],
-	education: [BSc Economics @ Stockholm School of Economic, BSc Statistics @ Stockholm University],
+	education: [BSc Economics @ Stockholm School of Economics, BSc Statistics @ Stockholm University],
 	passion: [Helping others through code]
 }
 ```
