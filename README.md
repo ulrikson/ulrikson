@@ -17,10 +17,8 @@ const aboutMe = {
 ## Get in touch
 Questions? Want to discuss something? 😃
 
-Shoot me an [email](mailto:erik.ulrikson@gmail.com)
-
-DM me on [Twitter](https://twitter.com/ulrikson2)
-
+Shoot me an [email](mailto:erik.ulrikson@gmail.com) <br />
+DM me on [Twitter](https://twitter.com/ulrikson2) <br />
 DM me on [LinkedIn](https://www.linkedin.com/in/erik-billebjer-ulrikson/)
 
 Looking forward to hearing from you!
