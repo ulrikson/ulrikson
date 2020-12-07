@@ -14,6 +14,13 @@ const aboutMe = {
 }
 ```
 
+## Projects
+
+### Covid Sweden
+Covid tracker for Sweden. Under "experimentell" you'll find some nice ML-features.  
+Flask + Vue + ML  
+[covidsverige.ml](http://www.covidsverige.ml)  
+
 ## Get in touch
 Questions? Want to discuss something? 😃
 
