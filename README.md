@@ -14,7 +14,9 @@ const aboutMe = {
 }
 ```
 
-## Projects
+## Hobby Projects
+
+Projects outside my work on [leadpilot.com](https://leadpilot.com)
 
 ### Covid Sweden
 Covid tracker for Sweden. Under "experimentell" you'll find some nice ML-features.  
