@@ -18,6 +18,9 @@ const aboutMe = {
 
 Projects outside my work on [leadpilot.com](https://leadpilot.com)
 
+### NLP
+Applying NLP on misc data sets. Trying new models, improving cleaning etc. Feel free to have a look!
+
 ### Covid Sweden
 Covid tracker for Sweden. Under "experimentell" you'll find some nice ML-features.  
 Flask + Vue + ML  
