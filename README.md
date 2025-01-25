@@ -18,8 +18,5 @@
 ![SAS](https://img.shields.io/badge/SAS-3E6D9C?style=for-the-badge&logo=sas&logoColor=white)
 ![SPSS](https://img.shields.io/badge/SPSS-0072C6?style=for-the-badge&logo=ibm&logoColor=white)
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ulrikson&show_icons=true&theme=radical)
-
 ## 🤝 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erik-billebjer-ulrikson)
