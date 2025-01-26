@@ -5,7 +5,7 @@
 - **Education:** 
   - BSc Economics
   - BSc Statistics
-- **Website**: [billebjer.se](billebjer.se)
+- **Website**: [billebjer.se](https://billebjer.se)
 
 ## 💻 Technical Skills
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
