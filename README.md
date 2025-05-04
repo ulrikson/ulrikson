@@ -1,7 +1,7 @@
-# Erik - Full Stack Developer & CPO
+# Erik - CTO & Full Stack Developer
 
 ## About Me
-**Current Role:** CPO and Full Stack Developer at [LeadPilot](https://leadpilot.com)
+**Current Role:** CTO and Full Stack Developer at [LeadPilot](https://leadpilot.com)
 
 **Education:** 
   - BSc Economics
