@@ -2,7 +2,7 @@
 ## About Me
 **Current Role:** Senior Full Stack Developer at [Hey Sid](https://heysid.com)
 
-**Expertise:** Building B2B SaaS products end-to-end — from concept and prototyping to production, covering both frontend and backend development.
+**Expertise:** Building B2B SaaS products end-to-end, from concept and prototyping to production, covering both frontend and backend development.
 
 **Education:** 
   - BSc Economics
@@ -30,7 +30,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 #### DevOps
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
@@ -40,6 +39,7 @@
 ![Sentry](https://img.shields.io/badge/Sentry-000000?style=for-the-badge&logo=sentry&logoColor=white)
 
 ### Hobby experience
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### Academic experience
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
