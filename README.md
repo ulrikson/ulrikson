@@ -2,6 +2,8 @@
 ## About Me
 **Current Role:** Senior Full Stack Developer at [Hey Sid](https://heysid.com)
 
+**Expertise:** Building B2B SaaS products end-to-end — from concept and prototyping to production, covering both frontend and backend development.
+
 **Education:** 
   - BSc Economics
   - BSc Statistics
