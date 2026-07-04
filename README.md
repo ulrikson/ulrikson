@@ -1,6 +1,6 @@
-# Erik - CTO & Full Stack Developer
+# Erik - Full Stack Developer
 ## About Me
-**Current Role:** CTO and Full Stack Developer at [LeadPilot](https://leadpilot.com)
+**Current Role:** Senior Full Stack Developer at [Hey Sid](https://heysid.com)
 
 **Education:** 
   - BSc Economics
